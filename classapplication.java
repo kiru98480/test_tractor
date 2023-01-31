@@ -5,5 +5,5 @@ private String name = "kiran";
 
     Application app = new Application();
 
-    System.out.println(address);
+    System.out.println(india);
 }
